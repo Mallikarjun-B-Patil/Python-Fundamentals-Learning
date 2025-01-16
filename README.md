@@ -34,4 +34,4 @@ This repository is designed for:
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mallikarjun-B-Patil/Python-Fundamentals-Learning.git
+   https://github.com/Mallikarjun-B-Patil/Python-Fundamentals-Learning.git
