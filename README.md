@@ -1,6 +1,6 @@
 # Python Basics Learning
 
-Welcome to my Python basics learning repository! This repository is a comprehensive record of my journey in mastering Python programming, starting with fundamental concepts and progressing to advanced topics. It includes practice scripts, exercises, and examples to reinforce learning.
+Welcome to my Python basics learning repository! This repository comprehensively records my journey in mastering Python programming, starting with fundamental concepts and progressing to advanced topics. It includes practice scripts, exercises, and examples to reinforce learning.
 
 ## Topics Covered
 This repository covers a wide range of Python programming topics, including:
@@ -34,4 +34,4 @@ This repository is designed for:
 ## How to Use
 1. Clone the repository:
    ```bash
-   https://github.com/Mallikarjun-B-Patil/Python-Fundamentals-Learning.git
+   git clone https://github.com/Mallikarjun-B-Patil/Python-Fundamentals-Learning.git
